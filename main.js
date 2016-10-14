@@ -1,7 +1,7 @@
 import util from './util.js';
 
-x = 3;
-y = 4;
+const x = 3;
+const y = 4;
 
 // calculate the area
 const area = util.getArea(x, y);
