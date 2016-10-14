@@ -4,7 +4,7 @@ x = 3;
 y = 4;
 
 // calculate the area
-area = util.getRectArea(x, y);
+const area = util.getArea(x, y);
 
 // ...
 // ...
