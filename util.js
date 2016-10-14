@@ -1,5 +1,3 @@
-function getRectArea(x, y) {
+export function getRectArea(x, y) {
   return x * y;
 }
-
-export { getRectArea };
